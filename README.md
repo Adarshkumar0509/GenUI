@@ -1,12 +1,66 @@
-# React + Vite
+# \# GenUI - AI Component Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 
 
-Currently, two official plugins are available:
+# An AI-powered UI component generator built with React, Vite, Tailwind CSS, and Google Gemini API.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 
 
-## Expanding the ESLint configuration
+# \## 🔗 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# \[https://gen-ui-8mk7.vercel.app](https://gen-ui-8mk7.vercel.app)
+
+# 
+
+# \## ✨ Features
+
+# \- Generate UI components using AI (Google Gemini)
+
+# \- Multiple framework support (HTML/CSS, Tailwind, Bootstrap)
+
+# \- Live code preview and editor
+
+# \- Prompt history with localStorage
+
+# \- Example prompts for quick start
+
+# \- Dark / Light mode toggle
+
+# \- AI model selector (Gemini 2.5 Flash, 1.5 Pro, 1.5 Flash)
+
+# \- Download generated code as HTML file
+
+# 
+
+# \## 🛠 Tech Stack
+
+# \- React 19
+
+# \- Vite
+
+# \- Tailwind CSS
+
+# \- Google Gemini API
+
+# \- Monaco Editor
+
+# 
+
+# \## 🚀 Run Locally
+
+# 
+
+# ```bash
+
+# git clone https://github.com/Adarshkumar0509/GenUI.git
+
+# cd GenUI
+
+# npm install
+
+# ```
+
+# 
+
+# Create a `.env` file and add:
+
